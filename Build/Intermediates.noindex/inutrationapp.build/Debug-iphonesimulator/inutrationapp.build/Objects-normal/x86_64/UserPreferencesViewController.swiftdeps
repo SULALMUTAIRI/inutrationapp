@@ -1,0 +1,812 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "UserPreferencesViewController"
+provides-nominal:
+- "13inutrationapp29UserPreferencesViewControllerC"
+provides-member:
+- ["13inutrationapp29UserPreferencesViewControllerC", ""]
+provides-dynamic-lookup:
+- "SettingsViewController"
+- "breakfast"
+- "didReceiveMemoryWarning"
+- "dinner"
+- "lunch"
+- "snack"
+- "viewDidLoad"
+depends-top-level:
+- !private "!="
+- !private "=="
+- !private ">"
+- "AssignmentPrecedence"
+- "Int32"
+- !private "MealPlan"
+- !private "NSFetchRequest"
+- !private "NSPredicate"
+- "StringLiteralType"
+- "UIButton"
+- "UITextView"
+- "UIViewController"
+- "UserDefaults"
+- "UserPreferences"
+- "UserPreferencesViewController"
+- !private "appDelegate"
+- !private "context"
+- !private "print"
+depends-member:
+- !private ["13inutrationapp11AppDelegateC", "saveContext"]
+- !private ["Sa", "count"]
+- !private ["Sa", "init"]
+- !private ["Sa", "last"]
+- !private ["s23BidirectionalCollectionP", "count"]
+- ["s23BidirectionalCollectionP", "init"]
+- !private ["s23BidirectionalCollectionP", "last"]
+- !private ["s13BinaryIntegerP", "init"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["So15CALayerDelegateP", "text"]
+- !private ["s7CVarArgP", "Int32"]
+- !private ["s7CVarArgP", "MealPlan"]
+- !private ["s7CVarArgP", "NSPredicate"]
+- ["s7CVarArgP", "UserDefaults"]
+- !private ["s7CVarArgP", "UserPreferences"]
+- !private ["s7CVarArgP", "appDelegate"]
+- !private ["s7CVarArgP", "breakfast"]
+- !private ["s7CVarArgP", "calorie"]
+- !private ["s7CVarArgP", "context"]
+- !private ["s7CVarArgP", "count"]
+- !private ["s7CVarArgP", "didReceiveMemoryWarning"]
+- !private ["s7CVarArgP", "dinner"]
+- !private ["s7CVarArgP", "fetch"]
+- !private ["s7CVarArgP", "fetchRequest"]
+- !private ["s7CVarArgP", "getUserPreferences"]
+- ["s7CVarArgP", "init"]
+- ["s7CVarArgP", "integer"]
+- !private ["s7CVarArgP", "last"]
+- !private ["s7CVarArgP", "lunch"]
+- !private ["s7CVarArgP", "mealID"]
+- !private ["s7CVarArgP", "predicate"]
+- !private ["s7CVarArgP", "print"]
+- !private ["s7CVarArgP", "saveContext"]
+- !private ["s7CVarArgP", "snack"]
+- ["s7CVarArgP", "standard"]
+- !private ["s7CVarArgP", "text"]
+- !private ["s7CVarArgP", "userID"]
+- !private ["s7CVarArgP", "userid"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- ["s7CVarArgP", ""]
+- !private ["s10CollectionP", "count"]
+- ["s10CollectionP", "init"]
+- !private ["s10CollectionP", "last"]
+- ["s10ComparableP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "Int32"]
+- !private ["s28CustomDebugStringConvertibleP", "MealPlan"]
+- !private ["s28CustomDebugStringConvertibleP", "NSPredicate"]
+- ["s28CustomDebugStringConvertibleP", "UserDefaults"]
+- !private ["s28CustomDebugStringConvertibleP", "UserPreferences"]
+- !private ["s28CustomDebugStringConvertibleP", "appDelegate"]
+- !private ["s28CustomDebugStringConvertibleP", "breakfast"]
+- !private ["s28CustomDebugStringConvertibleP", "calorie"]
+- !private ["s28CustomDebugStringConvertibleP", "context"]
+- !private ["s28CustomDebugStringConvertibleP", "count"]
+- !private ["s28CustomDebugStringConvertibleP", "didReceiveMemoryWarning"]
+- !private ["s28CustomDebugStringConvertibleP", "dinner"]
+- !private ["s28CustomDebugStringConvertibleP", "fetch"]
+- !private ["s28CustomDebugStringConvertibleP", "fetchRequest"]
+- !private ["s28CustomDebugStringConvertibleP", "getUserPreferences"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- ["s28CustomDebugStringConvertibleP", "integer"]
+- !private ["s28CustomDebugStringConvertibleP", "last"]
+- !private ["s28CustomDebugStringConvertibleP", "lunch"]
+- !private ["s28CustomDebugStringConvertibleP", "mealID"]
+- !private ["s28CustomDebugStringConvertibleP", "predicate"]
+- !private ["s28CustomDebugStringConvertibleP", "print"]
+- !private ["s28CustomDebugStringConvertibleP", "saveContext"]
+- !private ["s28CustomDebugStringConvertibleP", "snack"]
+- ["s28CustomDebugStringConvertibleP", "standard"]
+- !private ["s28CustomDebugStringConvertibleP", "text"]
+- !private ["s28CustomDebugStringConvertibleP", "userID"]
+- !private ["s28CustomDebugStringConvertibleP", "userid"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "count"]
+- ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "last"]
+- !private ["s23CustomStringConvertibleP", "Int32"]
+- !private ["s23CustomStringConvertibleP", "MealPlan"]
+- !private ["s23CustomStringConvertibleP", "NSPredicate"]
+- ["s23CustomStringConvertibleP", "UserDefaults"]
+- !private ["s23CustomStringConvertibleP", "UserPreferences"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "appDelegate"]
+- !private ["s23CustomStringConvertibleP", "breakfast"]
+- !private ["s23CustomStringConvertibleP", "calorie"]
+- !private ["s23CustomStringConvertibleP", "context"]
+- !private ["s23CustomStringConvertibleP", "count"]
+- !private ["s23CustomStringConvertibleP", "didReceiveMemoryWarning"]
+- !private ["s23CustomStringConvertibleP", "dinner"]
+- !private ["s23CustomStringConvertibleP", "fetch"]
+- !private ["s23CustomStringConvertibleP", "fetchRequest"]
+- !private ["s23CustomStringConvertibleP", "getUserPreferences"]
+- ["s23CustomStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", "integer"]
+- !private ["s23CustomStringConvertibleP", "last"]
+- !private ["s23CustomStringConvertibleP", "lunch"]
+- !private ["s23CustomStringConvertibleP", "mealID"]
+- !private ["s23CustomStringConvertibleP", "predicate"]
+- !private ["s23CustomStringConvertibleP", "print"]
+- !private ["s23CustomStringConvertibleP", "saveContext"]
+- !private ["s23CustomStringConvertibleP", "snack"]
+- ["s23CustomStringConvertibleP", "standard"]
+- !private ["s23CustomStringConvertibleP", "text"]
+- !private ["s23CustomStringConvertibleP", "userID"]
+- !private ["s23CustomStringConvertibleP", "userid"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s9DecodableP", "_getBuiltinLogicValue"]
+- !private ["s9DecodableP", "count"]
+- ["s9DecodableP", "init"]
+- !private ["s9DecodableP", "last"]
+- !private ["s9EncodableP", "_getBuiltinLogicValue"]
+- !private ["s9EncodableP", "count"]
+- ["s9EncodableP", "init"]
+- !private ["s9EncodableP", "last"]
+- !private ["s9EquatableP", "Int32"]
+- !private ["s9EquatableP", "MealPlan"]
+- !private ["s9EquatableP", "NSPredicate"]
+- ["s9EquatableP", "UserDefaults"]
+- !private ["s9EquatableP", "UserPreferences"]
+- !private ["s9EquatableP", "_getBuiltinLogicValue"]
+- !private ["s9EquatableP", "appDelegate"]
+- !private ["s9EquatableP", "breakfast"]
+- !private ["s9EquatableP", "calorie"]
+- !private ["s9EquatableP", "context"]
+- !private ["s9EquatableP", "didReceiveMemoryWarning"]
+- !private ["s9EquatableP", "dinner"]
+- !private ["s9EquatableP", "fetch"]
+- !private ["s9EquatableP", "fetchRequest"]
+- !private ["s9EquatableP", "getUserPreferences"]
+- ["s9EquatableP", "init"]
+- ["s9EquatableP", "integer"]
+- !private ["s9EquatableP", "lunch"]
+- !private ["s9EquatableP", "mealID"]
+- !private ["s9EquatableP", "predicate"]
+- !private ["s9EquatableP", "print"]
+- !private ["s9EquatableP", "saveContext"]
+- !private ["s9EquatableP", "snack"]
+- ["s9EquatableP", "standard"]
+- !private ["s9EquatableP", "text"]
+- !private ["s9EquatableP", "userID"]
+- !private ["s9EquatableP", "userid"]
+- !private ["s9EquatableP", "viewDidLoad"]
+- ["s9EquatableP", ""]
+- !private ["s25ExpressibleByArrayLiteralP", "count"]
+- !private ["s25ExpressibleByArrayLiteralP", "init"]
+- !private ["s25ExpressibleByArrayLiteralP", "last"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s27ExpressibleByIntegerLiteralP", "init"]
+- ["s26ExpressibleByStringLiteralP", "init"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s17FixedWidthIntegerP", "init"]
+- !private ["s8HashableP", "Int32"]
+- !private ["s8HashableP", "MealPlan"]
+- !private ["s8HashableP", "NSPredicate"]
+- ["s8HashableP", "UserDefaults"]
+- !private ["s8HashableP", "UserPreferences"]
+- !private ["s8HashableP", "_getBuiltinLogicValue"]
+- !private ["s8HashableP", "appDelegate"]
+- !private ["s8HashableP", "breakfast"]
+- !private ["s8HashableP", "calorie"]
+- !private ["s8HashableP", "context"]
+- !private ["s8HashableP", "didReceiveMemoryWarning"]
+- !private ["s8HashableP", "dinner"]
+- !private ["s8HashableP", "fetch"]
+- !private ["s8HashableP", "fetchRequest"]
+- !private ["s8HashableP", "getUserPreferences"]
+- ["s8HashableP", "init"]
+- ["s8HashableP", "integer"]
+- !private ["s8HashableP", "lunch"]
+- !private ["s8HashableP", "mealID"]
+- !private ["s8HashableP", "predicate"]
+- !private ["s8HashableP", "print"]
+- !private ["s8HashableP", "saveContext"]
+- !private ["s8HashableP", "snack"]
+- ["s8HashableP", "standard"]
+- !private ["s8HashableP", "text"]
+- !private ["s8HashableP", "userID"]
+- !private ["s8HashableP", "userid"]
+- !private ["s8HashableP", "viewDidLoad"]
+- ["s8HashableP", ""]
+- !private ["s5Int32V", "init"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- ["s25LosslessStringConvertibleP", "init"]
+- !private ["13inutrationapp8MealPlanC", "breakfast"]
+- !private ["13inutrationapp8MealPlanC", "calorie"]
+- !private ["13inutrationapp8MealPlanC", "deinit"]
+- !private ["13inutrationapp8MealPlanC", "dinner"]
+- !private ["13inutrationapp8MealPlanC", "fetchRequest"]
+- !private ["13inutrationapp8MealPlanC", "init"]
+- !private ["13inutrationapp8MealPlanC", "lunch"]
+- !private ["13inutrationapp8MealPlanC", "mealID"]
+- !private ["13inutrationapp8MealPlanC", "snack"]
+- ["s10MirrorPathP", "init"]
+- !private ["s17MutableCollectionP", "count"]
+- !private ["s17MutableCollectionP", "init"]
+- !private ["s17MutableCollectionP", "last"]
+- !private ["So8NSCodingP", "Int32"]
+- !private ["So8NSCodingP", "MealPlan"]
+- !private ["So8NSCodingP", "NSPredicate"]
+- ["So8NSCodingP", "UserDefaults"]
+- !private ["So8NSCodingP", "UserPreferences"]
+- !private ["So8NSCodingP", "appDelegate"]
+- !private ["So8NSCodingP", "breakfast"]
+- !private ["So8NSCodingP", "context"]
+- !private ["So8NSCodingP", "didReceiveMemoryWarning"]
+- !private ["So8NSCodingP", "dinner"]
+- !private ["So8NSCodingP", "fetch"]
+- !private ["So8NSCodingP", "getUserPreferences"]
+- ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "lunch"]
+- !private ["So8NSCodingP", "predicate"]
+- !private ["So8NSCodingP", "print"]
+- !private ["So8NSCodingP", "snack"]
+- !private ["So8NSCodingP", "text"]
+- !private ["So8NSCodingP", "userid"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- ["So8NSCodingP", ""]
+- ["So9NSCopyingP", "init"]
+- !private ["So9NSCopyingP", "predicate"]
+- !private ["So26NSExtensionRequestHandlingP", "Int32"]
+- !private ["So26NSExtensionRequestHandlingP", "MealPlan"]
+- !private ["So26NSExtensionRequestHandlingP", "NSPredicate"]
+- ["So26NSExtensionRequestHandlingP", "UserDefaults"]
+- !private ["So26NSExtensionRequestHandlingP", "UserPreferences"]
+- !private ["So26NSExtensionRequestHandlingP", "appDelegate"]
+- !private ["So26NSExtensionRequestHandlingP", "breakfast"]
+- !private ["So26NSExtensionRequestHandlingP", "context"]
+- !private ["So26NSExtensionRequestHandlingP", "didReceiveMemoryWarning"]
+- !private ["So26NSExtensionRequestHandlingP", "dinner"]
+- !private ["So26NSExtensionRequestHandlingP", "getUserPreferences"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "lunch"]
+- !private ["So26NSExtensionRequestHandlingP", "print"]
+- !private ["So26NSExtensionRequestHandlingP", "snack"]
+- !private ["So26NSExtensionRequestHandlingP", "userid"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- !private ["So14NSFetchRequestC", "predicate"]
+- !private ["So20NSFetchRequestResultP", "breakfast"]
+- !private ["So20NSFetchRequestResultP", "calorie"]
+- !private ["So20NSFetchRequestResultP", "dinner"]
+- !private ["So20NSFetchRequestResultP", "fetchRequest"]
+- !private ["So20NSFetchRequestResultP", "init"]
+- !private ["So20NSFetchRequestResultP", "lunch"]
+- !private ["So20NSFetchRequestResultP", "mealID"]
+- !private ["So20NSFetchRequestResultP", "snack"]
+- !private ["So20NSFetchRequestResultP", "userID"]
+- ["So21NSItemProviderReadingP", "init"]
+- ["So21NSItemProviderWritingP", "init"]
+- !private ["So9NSLockingP", "fetch"]
+- !private ["So15NSManagedObjectC", "breakfast"]
+- !private ["So15NSManagedObjectC", "calorie"]
+- !private ["So15NSManagedObjectC", "dinner"]
+- !private ["So15NSManagedObjectC", "fetchRequest"]
+- !private ["So15NSManagedObjectC", "init"]
+- !private ["So15NSManagedObjectC", "lunch"]
+- !private ["So15NSManagedObjectC", "mealID"]
+- !private ["So15NSManagedObjectC", "snack"]
+- !private ["So15NSManagedObjectC", "userID"]
+- !private ["So22NSManagedObjectContextC", "fetch"]
+- ["So16NSMutableCopyingP", "init"]
+- ["So8NSObjectC", "Int32"]
+- !private ["So8NSObjectC", "MealPlan"]
+- !private ["So8NSObjectC", "NSFetchRequest"]
+- !private ["So8NSObjectC", "NSPredicate"]
+- ["So8NSObjectC", "SettingsViewController"]
+- ["So8NSObjectC", "UIButton"]
+- ["So8NSObjectC", "UITextView"]
+- ["So8NSObjectC", "UserDefaults"]
+- ["So8NSObjectC", "UserPreferences"]
+- !private ["So8NSObjectC", "appDelegate"]
+- ["So8NSObjectC", "breakfast"]
+- !private ["So8NSObjectC", "calorie"]
+- !private ["So8NSObjectC", "context"]
+- ["So8NSObjectC", "didReceiveMemoryWarning"]
+- ["So8NSObjectC", "dinner"]
+- !private ["So8NSObjectC", "fetch"]
+- !private ["So8NSObjectC", "fetchRequest"]
+- ["So8NSObjectC", "getUserPreferences"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "integer"]
+- ["So8NSObjectC", "lunch"]
+- !private ["So8NSObjectC", "mealID"]
+- !private ["So8NSObjectC", "predicate"]
+- !private ["So8NSObjectC", "print"]
+- !private ["So8NSObjectC", "saveContext"]
+- ["So8NSObjectC", "snack"]
+- ["So8NSObjectC", "standard"]
+- !private ["So8NSObjectC", "text"]
+- !private ["So8NSObjectC", "userID"]
+- ["So8NSObjectC", "userid"]
+- ["So8NSObjectC", "viewDidLoad"]
+- !private ["So16NSObjectProtocolP", "Int32"]
+- !private ["So16NSObjectProtocolP", "MealPlan"]
+- !private ["So16NSObjectProtocolP", "NSPredicate"]
+- ["So16NSObjectProtocolP", "UserDefaults"]
+- !private ["So16NSObjectProtocolP", "UserPreferences"]
+- !private ["So16NSObjectProtocolP", "appDelegate"]
+- !private ["So16NSObjectProtocolP", "breakfast"]
+- !private ["So16NSObjectProtocolP", "calorie"]
+- !private ["So16NSObjectProtocolP", "context"]
+- !private ["So16NSObjectProtocolP", "didReceiveMemoryWarning"]
+- !private ["So16NSObjectProtocolP", "dinner"]
+- !private ["So16NSObjectProtocolP", "fetch"]
+- !private ["So16NSObjectProtocolP", "fetchRequest"]
+- !private ["So16NSObjectProtocolP", "getUserPreferences"]
+- ["So16NSObjectProtocolP", "init"]
+- ["So16NSObjectProtocolP", "integer"]
+- !private ["So16NSObjectProtocolP", "lunch"]
+- !private ["So16NSObjectProtocolP", "mealID"]
+- !private ["So16NSObjectProtocolP", "predicate"]
+- !private ["So16NSObjectProtocolP", "print"]
+- !private ["So16NSObjectProtocolP", "saveContext"]
+- !private ["So16NSObjectProtocolP", "snack"]
+- ["So16NSObjectProtocolP", "standard"]
+- !private ["So16NSObjectProtocolP", "text"]
+- !private ["So16NSObjectProtocolP", "userID"]
+- !private ["So16NSObjectProtocolP", "userid"]
+- !private ["So16NSObjectProtocolP", "viewDidLoad"]
+- ["So16NSObjectProtocolP", ""]
+- !private ["So24NSPersistentStoreRequestC", "predicate"]
+- !private ["So11NSPredicateC", "init"]
+- ["So14NSSecureCodingP", "init"]
+- ["So8NSStringC", "init"]
+- !private ["s7NumericP", "init"]
+- !private ["s22RandomAccessCollectionP", "count"]
+- !private ["s22RandomAccessCollectionP", "init"]
+- !private ["s22RandomAccessCollectionP", "last"]
+- !private ["s26RangeReplaceableCollectionP", "count"]
+- ["s26RangeReplaceableCollectionP", "init"]
+- !private ["s26RangeReplaceableCollectionP", "last"]
+- !private ["s8SequenceP", "count"]
+- ["s8SequenceP", "init"]
+- !private ["s8SequenceP", "last"]
+- !private ["s13SignedIntegerP", "init"]
+- !private ["s13SignedNumericP", "init"]
+- !private ["s10StrideableP", "init"]
+- ["SS", "init"]
+- ["s14StringProtocolP", "init"]
+- ["s16TextOutputStreamP", "init"]
+- ["s20TextOutputStreamableP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "text"]
+- !private ["So12UIAppearanceP", "text"]
+- !private ["So21UIAppearanceContainerP", "Int32"]
+- !private ["So21UIAppearanceContainerP", "MealPlan"]
+- !private ["So21UIAppearanceContainerP", "NSPredicate"]
+- ["So21UIAppearanceContainerP", "UserDefaults"]
+- !private ["So21UIAppearanceContainerP", "UserPreferences"]
+- !private ["So21UIAppearanceContainerP", "appDelegate"]
+- !private ["So21UIAppearanceContainerP", "breakfast"]
+- !private ["So21UIAppearanceContainerP", "context"]
+- !private ["So21UIAppearanceContainerP", "didReceiveMemoryWarning"]
+- !private ["So21UIAppearanceContainerP", "dinner"]
+- !private ["So21UIAppearanceContainerP", "getUserPreferences"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "lunch"]
+- !private ["So21UIAppearanceContainerP", "print"]
+- !private ["So21UIAppearanceContainerP", "snack"]
+- !private ["So21UIAppearanceContainerP", "text"]
+- !private ["So21UIAppearanceContainerP", "userid"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIApplicationDelegateP", "saveContext"]
+- !private ["So18UIContentContainerP", "Int32"]
+- !private ["So18UIContentContainerP", "MealPlan"]
+- !private ["So18UIContentContainerP", "NSPredicate"]
+- ["So18UIContentContainerP", "UserDefaults"]
+- !private ["So18UIContentContainerP", "UserPreferences"]
+- !private ["So18UIContentContainerP", "appDelegate"]
+- !private ["So18UIContentContainerP", "breakfast"]
+- !private ["So18UIContentContainerP", "context"]
+- !private ["So18UIContentContainerP", "didReceiveMemoryWarning"]
+- !private ["So18UIContentContainerP", "dinner"]
+- !private ["So18UIContentContainerP", "getUserPreferences"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "lunch"]
+- !private ["So18UIContentContainerP", "print"]
+- !private ["So18UIContentContainerP", "snack"]
+- !private ["So18UIContentContainerP", "userid"]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- ["So18UIContentContainerP", ""]
+- !private ["So30UIContentSizeCategoryAdjustingP", "text"]
+- !private ["So17UICoordinateSpaceP", "text"]
+- !private ["So13UIDynamicItemP", "text"]
+- !private ["So18UIFocusEnvironmentP", "Int32"]
+- !private ["So18UIFocusEnvironmentP", "MealPlan"]
+- !private ["So18UIFocusEnvironmentP", "NSPredicate"]
+- ["So18UIFocusEnvironmentP", "UserDefaults"]
+- !private ["So18UIFocusEnvironmentP", "UserPreferences"]
+- !private ["So18UIFocusEnvironmentP", "appDelegate"]
+- !private ["So18UIFocusEnvironmentP", "breakfast"]
+- !private ["So18UIFocusEnvironmentP", "context"]
+- !private ["So18UIFocusEnvironmentP", "didReceiveMemoryWarning"]
+- !private ["So18UIFocusEnvironmentP", "dinner"]
+- !private ["So18UIFocusEnvironmentP", "getUserPreferences"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "lunch"]
+- !private ["So18UIFocusEnvironmentP", "print"]
+- !private ["So18UIFocusEnvironmentP", "snack"]
+- !private ["So18UIFocusEnvironmentP", "text"]
+- !private ["So18UIFocusEnvironmentP", "userid"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So11UIFocusItemP", "text"]
+- !private ["So10UIKeyInputP", "text"]
+- !private ["So30UIPasteConfigurationSupportingP", "Int32"]
+- !private ["So30UIPasteConfigurationSupportingP", "MealPlan"]
+- !private ["So30UIPasteConfigurationSupportingP", "NSPredicate"]
+- ["So30UIPasteConfigurationSupportingP", "UserDefaults"]
+- !private ["So30UIPasteConfigurationSupportingP", "UserPreferences"]
+- !private ["So30UIPasteConfigurationSupportingP", "appDelegate"]
+- !private ["So30UIPasteConfigurationSupportingP", "breakfast"]
+- !private ["So30UIPasteConfigurationSupportingP", "context"]
+- !private ["So30UIPasteConfigurationSupportingP", "didReceiveMemoryWarning"]
+- !private ["So30UIPasteConfigurationSupportingP", "dinner"]
+- !private ["So30UIPasteConfigurationSupportingP", "getUserPreferences"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "lunch"]
+- !private ["So30UIPasteConfigurationSupportingP", "print"]
+- !private ["So30UIPasteConfigurationSupportingP", "saveContext"]
+- !private ["So30UIPasteConfigurationSupportingP", "snack"]
+- !private ["So30UIPasteConfigurationSupportingP", "text"]
+- !private ["So30UIPasteConfigurationSupportingP", "userid"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- ["So11UIResponderC", "Int32"]
+- !private ["So11UIResponderC", "MealPlan"]
+- !private ["So11UIResponderC", "NSFetchRequest"]
+- !private ["So11UIResponderC", "NSPredicate"]
+- ["So11UIResponderC", "SettingsViewController"]
+- ["So11UIResponderC", "UIButton"]
+- ["So11UIResponderC", "UITextView"]
+- ["So11UIResponderC", "UserDefaults"]
+- ["So11UIResponderC", "UserPreferences"]
+- !private ["So11UIResponderC", "appDelegate"]
+- ["So11UIResponderC", "breakfast"]
+- !private ["So11UIResponderC", "context"]
+- ["So11UIResponderC", "didReceiveMemoryWarning"]
+- ["So11UIResponderC", "dinner"]
+- ["So11UIResponderC", "getUserPreferences"]
+- ["So11UIResponderC", "init"]
+- ["So11UIResponderC", "lunch"]
+- !private ["So11UIResponderC", "print"]
+- !private ["So11UIResponderC", "saveContext"]
+- ["So11UIResponderC", "snack"]
+- !private ["So11UIResponderC", "text"]
+- ["So11UIResponderC", "userid"]
+- ["So11UIResponderC", "viewDidLoad"]
+- !private ["So30UIResponderStandardEditActionsP", "Int32"]
+- !private ["So30UIResponderStandardEditActionsP", "MealPlan"]
+- !private ["So30UIResponderStandardEditActionsP", "NSPredicate"]
+- ["So30UIResponderStandardEditActionsP", "UserDefaults"]
+- !private ["So30UIResponderStandardEditActionsP", "UserPreferences"]
+- !private ["So30UIResponderStandardEditActionsP", "appDelegate"]
+- !private ["So30UIResponderStandardEditActionsP", "breakfast"]
+- !private ["So30UIResponderStandardEditActionsP", "context"]
+- !private ["So30UIResponderStandardEditActionsP", "didReceiveMemoryWarning"]
+- !private ["So30UIResponderStandardEditActionsP", "dinner"]
+- !private ["So30UIResponderStandardEditActionsP", "getUserPreferences"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "lunch"]
+- !private ["So30UIResponderStandardEditActionsP", "print"]
+- !private ["So30UIResponderStandardEditActionsP", "saveContext"]
+- !private ["So30UIResponderStandardEditActionsP", "snack"]
+- !private ["So30UIResponderStandardEditActionsP", "text"]
+- !private ["So30UIResponderStandardEditActionsP", "userid"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So12UIScrollViewC", "text"]
+- !private ["So16UIStateRestoringP", "Int32"]
+- !private ["So16UIStateRestoringP", "MealPlan"]
+- !private ["So16UIStateRestoringP", "NSPredicate"]
+- ["So16UIStateRestoringP", "UserDefaults"]
+- !private ["So16UIStateRestoringP", "UserPreferences"]
+- !private ["So16UIStateRestoringP", "appDelegate"]
+- !private ["So16UIStateRestoringP", "breakfast"]
+- !private ["So16UIStateRestoringP", "context"]
+- !private ["So16UIStateRestoringP", "didReceiveMemoryWarning"]
+- !private ["So16UIStateRestoringP", "dinner"]
+- !private ["So16UIStateRestoringP", "getUserPreferences"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "lunch"]
+- !private ["So16UIStateRestoringP", "print"]
+- !private ["So16UIStateRestoringP", "snack"]
+- !private ["So16UIStateRestoringP", "userid"]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- ["So16UIStateRestoringP", ""]
+- !private ["So15UITextDraggableP", "text"]
+- !private ["So15UITextDroppableP", "text"]
+- !private ["So11UITextInputP", "text"]
+- !private ["So17UITextInputTraitsP", "text"]
+- !private ["So34UITextPasteConfigurationSupportingP", "text"]
+- !private ["So10UITextViewC", "text"]
+- !private ["So18UITraitEnvironmentP", "Int32"]
+- !private ["So18UITraitEnvironmentP", "MealPlan"]
+- !private ["So18UITraitEnvironmentP", "NSPredicate"]
+- ["So18UITraitEnvironmentP", "UserDefaults"]
+- !private ["So18UITraitEnvironmentP", "UserPreferences"]
+- !private ["So18UITraitEnvironmentP", "appDelegate"]
+- !private ["So18UITraitEnvironmentP", "breakfast"]
+- !private ["So18UITraitEnvironmentP", "context"]
+- !private ["So18UITraitEnvironmentP", "didReceiveMemoryWarning"]
+- !private ["So18UITraitEnvironmentP", "dinner"]
+- !private ["So18UITraitEnvironmentP", "getUserPreferences"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "lunch"]
+- !private ["So18UITraitEnvironmentP", "print"]
+- !private ["So18UITraitEnvironmentP", "snack"]
+- !private ["So18UITraitEnvironmentP", "text"]
+- !private ["So18UITraitEnvironmentP", "userid"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So6UIViewC", "text"]
+- ["So16UIViewControllerC", "Int32"]
+- !private ["So16UIViewControllerC", "MealPlan"]
+- !private ["So16UIViewControllerC", "NSFetchRequest"]
+- !private ["So16UIViewControllerC", "NSPredicate"]
+- ["So16UIViewControllerC", "SettingsViewController"]
+- ["So16UIViewControllerC", "UIButton"]
+- ["So16UIViewControllerC", "UITextView"]
+- ["So16UIViewControllerC", "UserDefaults"]
+- ["So16UIViewControllerC", "UserPreferences"]
+- !private ["So16UIViewControllerC", "appDelegate"]
+- ["So16UIViewControllerC", "breakfast"]
+- !private ["So16UIViewControllerC", "context"]
+- ["So16UIViewControllerC", "didReceiveMemoryWarning"]
+- ["So16UIViewControllerC", "dinner"]
+- ["So16UIViewControllerC", "getUserPreferences"]
+- ["So16UIViewControllerC", "init"]
+- ["So16UIViewControllerC", "lunch"]
+- !private ["So16UIViewControllerC", "print"]
+- ["So16UIViewControllerC", "snack"]
+- ["So16UIViewControllerC", "userid"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- ["So16UIViewControllerC", ""]
+- ["So12UserDefaultsC", "integer"]
+- ["So12UserDefaultsC", "standard"]
+- !private ["13inutrationapp15UserPreferencesC", "breakfast"]
+- ["13inutrationapp15UserPreferencesC", "deinit"]
+- !private ["13inutrationapp15UserPreferencesC", "dinner"]
+- !private ["13inutrationapp15UserPreferencesC", "fetchRequest"]
+- !private ["13inutrationapp15UserPreferencesC", "init"]
+- !private ["13inutrationapp15UserPreferencesC", "lunch"]
+- !private ["13inutrationapp15UserPreferencesC", "snack"]
+- !private ["13inutrationapp15UserPreferencesC", "userID"]
+- ["13inutrationapp29UserPreferencesViewControllerC", "Int32"]
+- !private ["13inutrationapp29UserPreferencesViewControllerC", "MealPlan"]
+- !private ["13inutrationapp29UserPreferencesViewControllerC", "NSFetchRequest"]
+- !private ["13inutrationapp29UserPreferencesViewControllerC", "NSPredicate"]
+- ["13inutrationapp29UserPreferencesViewControllerC", "SettingsViewController"]
+- ["13inutrationapp29UserPreferencesViewControllerC", "UIButton"]
+- ["13inutrationapp29UserPreferencesViewControllerC", "UITextView"]
+- ["13inutrationapp29UserPreferencesViewControllerC", "UserDefaults"]
+- ["13inutrationapp29UserPreferencesViewControllerC", "UserPreferences"]
+- !private ["13inutrationapp29UserPreferencesViewControllerC", "appDelegate"]
+- ["13inutrationapp29UserPreferencesViewControllerC", "breakfast"]
+- !private ["13inutrationapp29UserPreferencesViewControllerC", "context"]
+- ["13inutrationapp29UserPreferencesViewControllerC", "deinit"]
+- ["13inutrationapp29UserPreferencesViewControllerC", "didReceiveMemoryWarning"]
+- ["13inutrationapp29UserPreferencesViewControllerC", "dinner"]
+- ["13inutrationapp29UserPreferencesViewControllerC", "getUserPreferences"]
+- ["13inutrationapp29UserPreferencesViewControllerC", "init"]
+- ["13inutrationapp29UserPreferencesViewControllerC", "lunch"]
+- !private ["13inutrationapp29UserPreferencesViewControllerC", "print"]
+- ["13inutrationapp29UserPreferencesViewControllerC", "snack"]
+- ["13inutrationapp29UserPreferencesViewControllerC", "userid"]
+- ["13inutrationapp29UserPreferencesViewControllerC", "viewDidLoad"]
+- !private ["s14_ArrayProtocolP", "count"]
+- !private ["s14_ArrayProtocolP", "init"]
+- !private ["s14_ArrayProtocolP", "last"]
+- !private ["s23_BidirectionalIndexableP", "count"]
+- ["s23_BidirectionalIndexableP", "init"]
+- !private ["s23_BidirectionalIndexableP", "last"]
+- !private ["s18_BitwiseOperationsP", "init"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "text"]
+- !private ["s24_DestructorSafeContainerP", "count"]
+- !private ["s24_DestructorSafeContainerP", "init"]
+- !private ["s24_DestructorSafeContainerP", "last"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- ["s33_ExpressibleByStringInterpolationP", "init"]
+- ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s10_IndexableP", "count"]
+- ["s10_IndexableP", "init"]
+- !private ["s10_IndexableP", "last"]
+- !private ["s14_IndexableBaseP", "count"]
+- ["s14_IndexableBaseP", "init"]
+- !private ["s14_IndexableBaseP", "last"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Int32"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "MealPlan"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "NSPredicate"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "UserDefaults"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UserPreferences"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "appDelegate"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "breakfast"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "calorie"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "context"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "didReceiveMemoryWarning"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "dinner"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "fetch"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "fetchRequest"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "getUserPreferences"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "integer"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "lunch"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "mealID"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "predicate"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "print"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "saveContext"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "snack"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "standard"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "text"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "userID"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "userid"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["s17_MutableIndexableP", "count"]
+- !private ["s17_MutableIndexableP", "init"]
+- !private ["s17_MutableIndexableP", "last"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "count"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "last"]
+- !private ["s22_RandomAccessIndexableP", "count"]
+- !private ["s22_RandomAccessIndexableP", "init"]
+- !private ["s22_RandomAccessIndexableP", "last"]
+- !private ["s26_RangeReplaceableIndexableP", "count"]
+- ["s26_RangeReplaceableIndexableP", "init"]
+- !private ["s26_RangeReplaceableIndexableP", "last"]
+- !private ["s11_StrideableP", "init"]
+- ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "13inutrationapp11AppDelegateC"
+- !private "Sa"
+- "s23BidirectionalCollectionP"
+- !private "s13BinaryIntegerP"
+- !private "Sb"
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- "s10CollectionP"
+- "s10ComparableP"
+- "s28CustomDebugStringConvertibleP"
+- "s29CustomPlaygroundQuickLookableP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "s9DecodableP"
+- "s9EncodableP"
+- "s9EquatableP"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "s17FixedWidthIntegerP"
+- "s8HashableP"
+- !private "s5Int32V"
+- "s25LosslessStringConvertibleP"
+- !private "13inutrationapp8MealPlanC"
+- "s10MirrorPathP"
+- !private "s17MutableCollectionP"
+- "So8NSCodingP"
+- "So9NSCopyingP"
+- "So26NSExtensionRequestHandlingP"
+- !private "So14NSFetchRequestC"
+- !private "So20NSFetchRequestResultP"
+- "So21NSItemProviderReadingP"
+- "So21NSItemProviderWritingP"
+- !private "So9NSLockingP"
+- !private "So15NSManagedObjectC"
+- !private "So22NSManagedObjectContextC"
+- "So16NSMutableCopyingP"
+- "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- !private "So24NSPersistentStoreRequestC"
+- !private "So11NSPredicateC"
+- "So14NSSecureCodingP"
+- "So8NSStringC"
+- !private "s7NumericP"
+- !private "s22RandomAccessCollectionP"
+- "s26RangeReplaceableCollectionP"
+- "s8SequenceP"
+- !private "s13SignedIntegerP"
+- !private "s13SignedNumericP"
+- !private "s10StrideableP"
+- "SS"
+- "s14StringProtocolP"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- !private "So21UIApplicationDelegateP"
+- "So18UIContentContainerP"
+- !private "So30UIContentSizeCategoryAdjustingP"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So10UIKeyInputP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- !private "So12UIScrollViewC"
+- "So16UIStateRestoringP"
+- !private "So15UITextDraggableP"
+- !private "So15UITextDroppableP"
+- !private "So11UITextInputP"
+- !private "So17UITextInputTraitsP"
+- !private "So34UITextPasteConfigurationSupportingP"
+- !private "So10UITextViewC"
+- "So18UITraitEnvironmentP"
+- !private "So6UIViewC"
+- "So16UIViewControllerC"
+- "So12UserDefaultsC"
+- "13inutrationapp15UserPreferencesC"
+- "13inutrationapp29UserPreferencesViewControllerC"
+- !private "s14_ArrayProtocolP"
+- "s23_BidirectionalIndexableP"
+- !private "s18_BitwiseOperationsP"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+- "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "s33_ExpressibleByStringInterpolationP"
+- "s35_HasCustomAnyHashableRepresentationP"
+- "s10_IndexableP"
+- "s14_IndexableBaseP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s17_MutableIndexableP"
+- "s21_ObjectiveCBridgeableP"
+- !private "s22_RandomAccessIndexableP"
+- "s26_RangeReplaceableIndexableP"
+- !private "s11_StrideableP"
+- "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreData.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.2.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.2.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.2.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.2.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.2.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+interface-hash: "b82b8f108413a33319ee7d2f4f91a7c5"
