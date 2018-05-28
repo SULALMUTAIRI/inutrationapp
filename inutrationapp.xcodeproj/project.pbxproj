@@ -33,6 +33,7 @@
 		806E5AE420B94E9D00A28D18 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 806E5AE220B94E9D00A28D18 /* LaunchScreen.storyboard */; };
 		806E5AEC20B95D7F00A28D18 /* nutration.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 806E5AEB20B95D7F00A28D18 /* nutration.jpg */; };
 		80A015D620B978B100228ED5 /* RegisterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80A015D520B978B100228ED5 /* RegisterViewController.swift */; };
+		80FA9F9A20BCAD3B00D89C1A /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80FA9F9920BCAD3B00D89C1A /* MapViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -64,6 +65,7 @@
 		806E5AE520B94E9D00A28D18 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		806E5AEB20B95D7F00A28D18 /* nutration.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = nutration.jpg; path = Assets.xcassets/nutration.jpg; sourceTree = "<group>"; };
 		80A015D520B978B100228ED5 /* RegisterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterViewController.swift; sourceTree = "<group>"; };
+		80FA9F9920BCAD3B00D89C1A /* MapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,6 +110,7 @@
 				8007CA2720BA2F5A0011C2AD /* UserSettings+CoreDataProperties.swift */,
 				8007CA2820BA2F5A0011C2AD /* RestMealRel+CoreDataClass.swift */,
 				8007CA2920BA2F5A0011C2AD /* RestMealRel+CoreDataProperties.swift */,
+				80FA9F9920BCAD3B00D89C1A /* MapViewController.swift */,
 				8007CA2A20BA2F5B0011C2AD /* UserBasicProfile+CoreDataClass.swift */,
 				8007CA2B20BA2F5B0011C2AD /* UserBasicProfile+CoreDataProperties.swift */,
 				806E5AD620B94E9D00A28D18 /* AppDelegate.swift */,
@@ -212,6 +215,7 @@
 				8007CA3620BA2F5B0011C2AD /* UserBasicProfile+CoreDataClass.swift in Sources */,
 				8007CA2D20BA2F5B0011C2AD /* UserPreferences+CoreDataProperties.swift in Sources */,
 				806E5AD920B94E9D00A28D18 /* LoginViewController.swift in Sources */,
+				80FA9F9A20BCAD3B00D89C1A /* MapViewController.swift in Sources */,
 				806E5AD720B94E9D00A28D18 /* AppDelegate.swift in Sources */,
 				806E5ADF20B94E9D00A28D18 /* inutrationapp.xcdatamodeld in Sources */,
 				8007CA3420BA2F5B0011C2AD /* RestMealRel+CoreDataClass.swift in Sources */,

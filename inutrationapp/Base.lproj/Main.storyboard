@@ -387,22 +387,25 @@
             </objects>
             <point key="canvasLocation" x="-844" y="588.75562218890559"/>
         </scene>
-        <!--View Controller-->
+        <!--Map View Controller-->
         <scene sceneID="cu1-7x-enf">
             <objects>
-                <viewController id="3k8-kP-qsH" sceneMemberID="viewController">
+                <viewController id="3k8-kP-qsH" customClass="MapViewController" customModule="inutrationapp" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="XVh-x5-owP">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <mapView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" mapType="standard" translatesAutoresizingMaskIntoConstraints="NO" id="LbV-Uu-zfR">
-                                <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                            <mapView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" mapType="standard" translatesAutoresizingMaskIntoConstraints="NO" id="UQC-5T-SlX">
+                                <rect key="frame" x="0.0" y="58" width="375" height="578"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </mapView>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <viewLayoutGuide key="safeArea" id="Gu9-bV-ffu"/>
                     </view>
+                    <connections>
+                        <outlet property="mapview" destination="UQC-5T-SlX" id="bew-da-K9l"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="AqN-YJ-J58" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>

@@ -1,6 +1,6 @@
 version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
 options: "ffe83e92e8e30741c023d4593a724a5c"
-build_time: [1527500048, 820766000]
+build_time: [1527523640, 199431000]
 inputs:
   "/Users/raed/Desktop/inutrationproject/inutrationapp/inutrationapp/UserBasicProfile+CoreDataProperties.swift": [1527456920, 0]
   "/Users/raed/Desktop/inutrationproject/inutrationapp/inutrationapp/MealViewController.swift": [1527458399, 0]
@@ -13,6 +13,7 @@ inputs:
   "/Users/raed/Desktop/inutrationproject/inutrationapp/inutrationapp/UserBasicProfile+CoreDataClass.swift": [1527456920, 0]
   "/Users/raed/Desktop/inutrationproject/inutrationapp/inutrationapp/UserPreferences+CoreDataProperties.swift": [1527460884, 0]
   "/Users/raed/Desktop/inutrationproject/inutrationapp/inutrationapp/LoginViewController.swift": [1527456920, 0]
+  "/Users/raed/Desktop/inutrationproject/inutrationapp/inutrationapp/MapViewController.swift": [1527523639, 0]
   "/Users/raed/Desktop/inutrationproject/inutrationapp/inutrationapp/AppDelegate.swift": [1527456920, 0]
   "/Users/raed/Desktop/inutrationproject/inutrationapp/inutrationapp/RestMealRel+CoreDataClass.swift": [1527456920, 0]
   "/Users/raed/Desktop/inutrationproject/inutrationapp/inutrationapp/Restaurant+CoreDataProperties.swift": [1527456920, 0]
